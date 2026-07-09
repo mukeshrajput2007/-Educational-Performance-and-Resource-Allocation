@@ -1,2 +1,28 @@
-# -Educational-Performance-and-Resource-Allocation
-Power BI Dashboard for analyzing educational performance, student engagement, and resource allocation.  Ye professional lagega GitHub par. 👍  Repository create karne ke baad:  Upload .pbix file Upload screenshot README.md add karna Screenshot ko README me embed karna  Phir ye bhi internship portfolio ke liye ready ho jayega.
+
+# Educational Performance and Resource Allocation Dashboard
+
+## Overview
+This project is an interactive Power BI dashboard that analyzes student performance, resource utilization, and academic engagement. It provides insights into student behavior, participation, and educational outcomes through data visualization.
+
+## Key Metrics
+- Total Students
+- Average Resources Accessed
+- Average Discussion Participation
+- Average Raised Hands
+- High Performance Students
+- Low Performance Students
+
+## Tools Used
+- Power BI
+- Excel
+- Data Visualization
+
+## Dashboard Preview
+
+![Dashboard](Screenshot.png)
+
+## Project Objective
+The objective of this dashboard is to analyze educational performance and resource allocation patterns, helping institutions make data-driven decisions to improve student outcomes.
+
+## Author
+Mukesh Kumar

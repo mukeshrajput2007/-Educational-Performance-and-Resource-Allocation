@@ -19,7 +19,8 @@ This project is an interactive Power BI dashboard that analyzes student performa
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot.png)
+![Dashboard](Screenshot%202026-07-07%20090932.png)
+
 
 ## Project Objective
 The objective of this dashboard is to analyze educational performance and resource allocation patterns, helping institutions make data-driven decisions to improve student outcomes.
